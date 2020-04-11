@@ -4,9 +4,6 @@ from setuptools import setup
 from io import open
 from zappa import __version__
 
-with open('README.md') as readme_file:
-    long_description = readme_file.read()
-
 with open(os.path.join(os.path.dirname(__file__), 'requirements.in')) as f:
     required = f.read().splitlines()
 
