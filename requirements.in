@@ -3,7 +3,6 @@ boto3
 durationpy
 hjson
 jmespath
-git+git://github.com/jxltom/kappa.git@master
 pip>=9.0.1
 python-dateutil<2.7.0
 python-slugify
