@@ -18,7 +18,7 @@ hjson==3.0.1
 idna==2.9                 # via requests
 importlib-metadata==1.5.0  # via argcomplete
 jmespath==0.9.4
-git+https://github.com/jxltom/kappa.git
+git+git://github.com/jxltom/kappa.git@master
 pip-tools==4.5.0
 placebo==0.9.0            # via kappa
 python-dateutil==2.6.1
