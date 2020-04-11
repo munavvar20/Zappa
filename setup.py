@@ -20,7 +20,7 @@ setup(
     include_package_data=True,
     license='MIT License',
     description='Server-less Python Web Services for AWS Lambda and API Gateway',
-    long_description=long_description,
+    long_description='Zappa',
     long_description_content_type='text/markdown',
     url='https://github.com/Miserlou/Zappa',
     author='Rich Jones',
